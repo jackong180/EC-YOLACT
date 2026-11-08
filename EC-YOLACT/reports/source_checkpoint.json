@@ -1,0 +1,14 @@
+{
+  "keys": 354,
+  "resnet101_stage3_block22": false,
+  "first_keys": [
+    "backbone.layers.0.0.conv1.weight",
+    "backbone.layers.0.0.bn1.weight",
+    "backbone.layers.0.0.bn1.bias",
+    "backbone.layers.0.0.bn1.running_mean",
+    "backbone.layers.0.0.bn1.running_var",
+    "backbone.layers.0.0.bn1.num_batches_tracked",
+    "backbone.layers.0.0.conv2.weight",
+    "backbone.layers.0.0.bn2.weight"
+  ]
+}

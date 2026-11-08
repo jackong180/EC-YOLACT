@@ -1,0 +1,20 @@
+{
+  "nets/resnet.py": "e44a92a73775865e1fcdec16739fab69a15e5a8ccc9fb11ba57b7a14858f67f0",
+  "nets/yolact.py": "9c5a1babb83a3ae9604953f2a50334d1c393ca543c1094faee4698193556bb95",
+  "nets/yolact_training.py": "e3ca9cd50178ba5862b4e4123fadab1c638f1f08a0cafc60304db9960caf1493",
+  "utils/CA.py": "c6468389121d870ddef6ef04f3de743fa31d9ebc238570f1748d841ec3b15334",
+  "utils/EGA.py": "a328d538ad5ab5511ea705bc6f522e97f1ec5ddeecb6aa98afc2c1c996455fdb",
+  "utils/dataloader.py": "1cb64b6504ca1d48b52cbb706108aeb5901aeaf678b40791418720178fc15788",
+  "utils/utils_bbox.py": "e6e9fd96cad79f229a6253e2c05d57663c4c84598abcad3f53acb23a9e9940f1",
+  "utils/utils_map.py": "2dba66f1285d65b54248039e61bca9180406139327ae28517d2290c35f0f0978",
+  "experiment.py": "f46c9be978312ae5f6f98314d5cefd8b4bfe1053d1677c01d1e6307bde4a4925",
+  "train.py": "b0d1ac1251c6661a365d1cdb9c616fed4b1b60ac0ee947774a36de4ad1e75c5c",
+  "evaluate.py": "980e9ca1185e84a16c98a113c325a5696bb8eae3065d612d7e1331bad9c9c5df",
+  "benchmark.py": "61b1ac6110bb3407ce81072acbbdbcca47a697bd8a4c194cb568fc4b1b9030ec",
+  "predict.py": "81a2c07505cfdd6cb00e4b4fb2ef8eac2805678cc19478d3828c5ed7ac12a45e",
+  "check_dataset.py": "128200b522142d28d77505ae66729f1c86e1aacde3085d67d5d01071352c74c2",
+  "configs/wsd.json": "9b17746c2ce2908a8e123d68ca24b1bb90774f47649a5accd638003785474b17",
+  "configs/coco.json": "180265252fbe3d407593fc0640ca3a60ee05af9427e9cac7a91b24f626f96ede",
+  "README.md": "b6406e9d4d940dba545cf64358f8ac261ec5abb7531367044bbfef9a64e88ba7",
+  "tests/test_pipeline.py": "969824ce832a28d91219f2ee6a9369478abfab6da00622aeabd80e856468db01"
+}

@@ -1,0 +1,5 @@
+numpy>=1.24,<3
+Pillow>=9
+opencv-python-headless>=4.8
+pycocotools>=2.0.7
+# Install a matching torch/torchvision pair for your CUDA driver separately.

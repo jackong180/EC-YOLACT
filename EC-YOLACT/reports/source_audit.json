@@ -1,0 +1,214 @@
+{
+  "datasets": {
+    "datasets/coco/Jsons/train_annotations.json": {
+      "images": 3672,
+      "annotations": 3708,
+      "categories": [
+        {
+          "id": 1,
+          "name": "SCRATCH",
+          "supercategory": "SCRATCH"
+        },
+        {
+          "id": 2,
+          "name": "PARTICLE",
+          "supercategory": "PARTICLE"
+        },
+        {
+          "id": 3,
+          "name": "BLOCK ETCH",
+          "supercategory": "BLOCK ETCH"
+        },
+        {
+          "id": 4,
+          "name": "COATING BAD",
+          "supercategory": "COATING BAD"
+        },
+        {
+          "id": 5,
+          "name": "PIQ PARTICLE",
+          "supercategory": "PIQ PARTICLE"
+        },
+        {
+          "id": 6,
+          "name": "PO CONTAMINATION",
+          "supercategory": "PO CONTAMINATION"
+        },
+        {
+          "id": 7,
+          "name": "SEZ BURNT",
+          "supercategory": "SEZ BURNT"
+        }
+      ],
+      "category_instance_counts": {
+        "1": 1302,
+        "2": 564,
+        "3": 737,
+        "5": 354,
+        "6": 323,
+        "4": 337,
+        "7": 91
+      },
+      "empty_images": 0,
+      "crowd_annotations": 0
+    },
+    "datasets/coco/Jsons/val_annotations.json": {
+      "images": 408,
+      "annotations": 411,
+      "categories": [
+        {
+          "id": 1,
+          "name": "SCRATCH",
+          "supercategory": "SCRATCH"
+        },
+        {
+          "id": 2,
+          "name": "PARTICLE",
+          "supercategory": "PARTICLE"
+        },
+        {
+          "id": 3,
+          "name": "BLOCK ETCH",
+          "supercategory": "BLOCK ETCH"
+        },
+        {
+          "id": 4,
+          "name": "COATING BAD",
+          "supercategory": "COATING BAD"
+        },
+        {
+          "id": 5,
+          "name": "PIQ PARTICLE",
+          "supercategory": "PIQ PARTICLE"
+        },
+        {
+          "id": 6,
+          "name": "PO CONTAMINATION",
+          "supercategory": "PO CONTAMINATION"
+        },
+        {
+          "id": 7,
+          "name": "SEZ BURNT",
+          "supercategory": "SEZ BURNT"
+        }
+      ],
+      "category_instance_counts": {
+        "6": 32,
+        "4": 42,
+        "2": 62,
+        "3": 97,
+        "1": 132,
+        "5": 33,
+        "7": 13
+      },
+      "empty_images": 0,
+      "crowd_annotations": 0
+    },
+    "datasets/map_out/Jsons/train_annotations.json": {
+      "images": 0,
+      "annotations": 0,
+      "categories": [
+        {
+          "id": 1,
+          "name": "SCRATCH",
+          "supercategory": "SCRATCH"
+        },
+        {
+          "id": 2,
+          "name": "PARTICLE",
+          "supercategory": "PARTICLE"
+        },
+        {
+          "id": 3,
+          "name": "BLOCK ETCH",
+          "supercategory": "BLOCK ETCH"
+        },
+        {
+          "id": 4,
+          "name": "COATING BAD",
+          "supercategory": "COATING BAD"
+        },
+        {
+          "id": 5,
+          "name": "PIQ PARTICLE",
+          "supercategory": "PIQ PARTICLE"
+        },
+        {
+          "id": 6,
+          "name": "PO CONTAMINATION",
+          "supercategory": "PO CONTAMINATION"
+        },
+        {
+          "id": 7,
+          "name": "SEZ BURNT",
+          "supercategory": "SEZ BURNT"
+        }
+      ],
+      "category_instance_counts": {},
+      "empty_images": 0,
+      "crowd_annotations": 0
+    },
+    "datasets/map_out/Jsons/val_annotations.json": {
+      "images": 4080,
+      "annotations": 4119,
+      "categories": [
+        {
+          "id": 1,
+          "name": "SCRATCH",
+          "supercategory": "SCRATCH"
+        },
+        {
+          "id": 2,
+          "name": "PARTICLE",
+          "supercategory": "PARTICLE"
+        },
+        {
+          "id": 3,
+          "name": "BLOCK ETCH",
+          "supercategory": "BLOCK ETCH"
+        },
+        {
+          "id": 4,
+          "name": "COATING BAD",
+          "supercategory": "COATING BAD"
+        },
+        {
+          "id": 5,
+          "name": "PIQ PARTICLE",
+          "supercategory": "PIQ PARTICLE"
+        },
+        {
+          "id": 6,
+          "name": "PO CONTAMINATION",
+          "supercategory": "PO CONTAMINATION"
+        },
+        {
+          "id": 7,
+          "name": "SEZ BURNT",
+          "supercategory": "SEZ BURNT"
+        }
+      ],
+      "category_instance_counts": {
+        "1": 1434,
+        "2": 626,
+        "3": 834,
+        "5": 387,
+        "6": 355,
+        "4": 379,
+        "7": 104
+      },
+      "empty_images": 0,
+      "crowd_annotations": 0
+    }
+  },
+  "source_image_count": 0,
+  "source_zip_sha256": "cbbfa97f10ca357609cb1ea29152cef62166da17f47b68a030a8ee671bf9e8ab",
+  "overlap_by_filename": {
+    "datasets/coco/Jsons/train_annotations.json VS datasets/coco/Jsons/val_annotations.json": 0,
+    "datasets/coco/Jsons/train_annotations.json VS datasets/map_out/Jsons/train_annotations.json": 0,
+    "datasets/coco/Jsons/train_annotations.json VS datasets/map_out/Jsons/val_annotations.json": 3672,
+    "datasets/coco/Jsons/val_annotations.json VS datasets/map_out/Jsons/train_annotations.json": 0,
+    "datasets/coco/Jsons/val_annotations.json VS datasets/map_out/Jsons/val_annotations.json": 408,
+    "datasets/map_out/Jsons/train_annotations.json VS datasets/map_out/Jsons/val_annotations.json": 0
+  }
+}

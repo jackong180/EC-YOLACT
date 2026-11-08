@@ -1,0 +1,38 @@
+{
+  "backbone": "resnet101",
+  "ca_normalization": "sum",
+  "input_shape": [
+    544,
+    544
+  ],
+  "anchor_sizes": [
+    24,
+    48,
+    96,
+    192,
+    384
+  ],
+  "epochs": 200,
+  "batch_size": 16,
+  "lr": 0.002,
+  "min_lr": 2e-05,
+  "momentum": 0.9,
+  "weight_decay": 0.0005,
+  "workers": 4,
+  "seed": 11,
+  "confidence": 0.001,
+  "nms_iou": 0.5,
+  "classes": [
+    "SCRATCH",
+    "PARTICLE",
+    "BLOCK ETCH",
+    "COATING BAD",
+    "PIQ PARTICLE",
+    "PO CONTAMINATION",
+    "SEZ BURNT"
+  ],
+  "train_images": "datasets/wsd/images",
+  "val_images": "datasets/wsd/images",
+  "train_annotations": "datasets/wsd/annotations/train_annotations.json",
+  "val_annotations": "datasets/wsd/annotations/val_annotations.json"
+}

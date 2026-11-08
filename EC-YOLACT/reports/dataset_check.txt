@@ -1,0 +1,21 @@
+loading annotations into memory...
+Done (t=0.10s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.01s)
+creating index...
+index created!
+{
+  "train": {
+    "images": 3672,
+    "annotations": 3708,
+    "missing_images": 3672
+  },
+  "val": {
+    "images": 408,
+    "annotations": 411,
+    "missing_images": 408
+  },
+  "filename_overlap": 0
+}
